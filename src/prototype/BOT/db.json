@@ -1,0 +1,73 @@
+{
+  "sessions": [
+    {
+      "id": "1602365119:1602365119",
+      "data": {
+        "scene": {
+          "prev": "setByPassIDRetry",
+          "current": "main"
+        },
+        "city": "Москва",
+        "selectPassId": 2
+      }
+    },
+    {
+      "id": "999563522:999563522",
+      "data": {
+        "scene": {
+          "prev": "admin",
+          "current": "setByUserID"
+        },
+        "city": "Новосибирск",
+        "date": "2077-10-20T03:30:00.000Z",
+        "selectPassId": 13,
+        "selectUserId": "999999999"
+      }
+    },
+    {
+      "id": "1935966096:1935966096",
+      "data": {
+        "scene": {
+          "prev": "main",
+          "current": "main"
+        }
+      }
+    },
+    {
+      "id": "782145002:782145002",
+      "data": {
+        "scene": {
+          "prev": "main",
+          "current": "main"
+        }
+      }
+    },
+    {
+      "id": "5084004827:5084004827",
+      "data": {
+        "scene": {
+          "prev": "main",
+          "current": "main"
+        }
+      }
+    },
+    {
+      "id": "786272724:786272724",
+      "data": {
+        "scene": {
+          "prev": "main",
+          "current": "main"
+        }
+      }
+    },
+    {
+      "id": "508262810:508262810",
+      "data": {
+        "scene": {
+          "prev": "main",
+          "current": "main"
+        }
+      }
+    }
+  ]
+}
