@@ -1,5 +1,4 @@
 # Hackathon-Telegram-Bot
-#### PETN:
 
 #### TypeScript — это строго типизированный язык программирования, основанный на JavaScript
 #### Webpack - это сборщик модулей JavaScript
