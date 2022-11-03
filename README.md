@@ -1,7 +1,5 @@
 # Hackathon-Telegram-Bot
 
-#### TypeScript — это строго типизированный язык программирования, основанный на JavaScript
-#### Webpack - это сборщик модулей JavaScript
-#### Node.js - программная платформа, основанная на движке V8, превращающая JavaScript из узкоспециализированного языка в язык общего назначения
-#### Nest.js - фреймворк для создания серверных веб-приложений Node.js
-#### PostgreSQL — свободная объектно-реляционная система управления базами данных
+#### TypeScript, Webpack, Node.js ,Nest.js, PostgreSQL
+
+To start the project, you need to run the command in the src/BOT directory: yarn start:dev, and in the src/API: yarn build
